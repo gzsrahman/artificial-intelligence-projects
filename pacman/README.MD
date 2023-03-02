@@ -10,7 +10,8 @@ To run Lab 7, navigate to the appropriate folder in your terminal and run the fo
 >python crawler.py   
 
 <img width="1006" alt="crawler" src="https://user-images.githubusercontent.com/124002750/222548890-669d71a2-5230-4a83-a991-ce7a4adc471e.png">
-https://user-images.githubusercontent.com/124002750/222561446-21a92df7-6956-40bb-b5f2-a4bf723761bf.mov
+Click the following link to see a video of the crawler agent learning to walk in real time:
+https://drive.google.com/file/d/15RCYfuyj1qs9z03j0-RdSRij3EHuJO9y/view?usp=sharing
 Look! He's just a little guy who's trying his best! You can poke around with the learning policy adjustments to make him learn faster or slower, less or more stable.  
 
 To run Lab 9, similarly navigate to the appropriate folder in your terminal and run the following commands:  
