@@ -6,11 +6,11 @@ Labs 1-9 mark ascending levels of complexity in the AI. Due to limitations on Gi
 
 If you'd like to download an individual folder from a Github repository, you start by navigating to https://download-directory.github.io/. In the prompted box, type https://github.com/gzsrahman/artificial-intelligence-projects/tree/main/pacman/lab9_exactinference/tracking. Once the folder is downloaded, place it into your desired location on your device.
 
-To run the file, you can run the following commands:
-python autograder.py -q q1
-python autograder.py -q q2
-python autograder.py -q q3
-python autograder.py -q q4
+To run the file, you can run the following commands:  
+>python autograder.py -q q1   
+python autograder.py -q q2   
+python autograder.py -q q3    
+python autograder.py -q q4   
 
 <img width="636" alt="pacman performance" src="https://user-images.githubusercontent.com/124002750/222544017-b2e3659e-2eba-4114-946c-fb81a33f725c.png">
 
