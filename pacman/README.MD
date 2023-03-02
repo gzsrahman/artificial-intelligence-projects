@@ -1,4 +1,4 @@
-Please Read: Berkeley CS188 Pacman AI
+Berkeley CS188 Pacman AI
 ====================================
 Hi! This folder includes my work on Berkeley's CS188 Pacman AI class. Note that the project is incomplete; I look forward to finishing it when my courseload affords me the time.
 
