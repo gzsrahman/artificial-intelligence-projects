@@ -1,3 +1,5 @@
+Lab 8 Instructions
+===
 To run Lab 8, go to the appropriate directory in your terminal and run the following:
 >python pacman.py -p PacmanQAgent -n 10 -l smallGrid -a numTraining=10
 >
