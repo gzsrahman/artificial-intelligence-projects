@@ -13,6 +13,7 @@ To run Lab 7, navigate to the appropriate folder in your terminal and run the fo
 Click the following link to see a video of the crawler agent learning to walk in real time:
 
 >https://drive.google.com/file/d/15RCYfuyj1qs9z03j0-RdSRij3EHuJO9y/view?usp=sharing
+
 Look! He's just a little guy who's trying his best! You can poke around with the learning policy adjustments to make him learn faster or slower, less or more stable.  
 
 To run Lab 8, go to the appropriate directory in your terminal and run the following:
