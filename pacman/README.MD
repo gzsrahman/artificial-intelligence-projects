@@ -8,6 +8,7 @@ If you'd like to download an individual folder from a Github repository, you sho
 
 In order to run any of this code, please ensure that you have python3.6 downloaded. Afterwards, please type the following into your terminal, substituting "<env-name>" with your choice of environment name:
 >conda create --name <env-name> python=3.6
+  
 >source activate <env-name>
 
 To discontinue the python environment, type:
