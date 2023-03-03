@@ -1,10 +1,9 @@
 Lab 8 Instructions
 ===
-For download instructions, see surface level pacman folder.
+For download and environment instructions, see surface level pacman folder.
 
 To run Lab 8, go to the appropriate directory in your terminal and run the following:
->python pacman.py -p PacmanQAgent -n 10 -l smallGrid -a numTraining=10
->
+>python pacman.py -p PacmanQAgent -n 10 -l smallGrid -a numTraining=10  
 >python pacman.py -p ApproximateQAgent -a extractor=SimpleExtractor -x 50 -n 60 -l mediumGrid
 
 The first line trains the Pacman AI to avoid ghosts and find food pellets, while the second line shows a fully trained Pacman! If you'd like to see a video of these things happening instead of downloading the repository and running manually, click the following links which are pasted as the before video and after video respectively:
