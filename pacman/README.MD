@@ -7,8 +7,7 @@ Labs 1-9 mark ascending levels of complexity in the AI. It would be a waste of t
 If you'd like to download an individual folder from a Github repository, you should start by navigating to https://download-directory.github.io/. In a separate tab, open either Lab 7, 8, or 9 on Github and copy the URL. Type the URL into the prompted box in the download website. Once the folder is downloaded, place it into your desired location on your device.
 
 In order to run any of this code, please ensure that you have python3.6 downloaded. Afterwards, please type the following into your terminal, substituting "<env-name>" with your choice of environment name:
->conda create --name <env-name> python=3.6
-  
+>conda create --name <env-name> python=3.6  
 >source activate <env-name>
 
 To discontinue the python environment, type:
