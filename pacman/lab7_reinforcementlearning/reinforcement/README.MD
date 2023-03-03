@@ -1,6 +1,6 @@
 Lab 7 Instructions
 =========
-For download instructions, see surface pacman folder.
+For download and environment instructions, see surface "pacman" folder.
 
 To run Lab 7, navigate to the appropriate folder in your terminal and run the following command:   
 >python crawler.py   
