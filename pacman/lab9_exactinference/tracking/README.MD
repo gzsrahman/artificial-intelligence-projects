@@ -1,6 +1,6 @@
 Lab 9 Instructions
 ====
-For download instructions, see surface level pacman folder.
+For download and environmentinstructions, see surface level pacman folder.
 
 To run Lab 9, navigate to the appropriate folder in your terminal and run the following commands:  
 >python autograder.py -q q1   
